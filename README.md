@@ -14,6 +14,10 @@ Adds hats to every vanilla survivor except MUL-T since he has a hard hat, Bandit
 
 ## Changelog
 
+**1.0.3**
+
+- Adds a config for hat sizes (setting it to 0 would make the hat 'invisible')
+
 **1.0.2**
 
 - Updated for SOTS
